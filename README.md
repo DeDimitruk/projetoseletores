@@ -1,3 +1,3 @@
 # projetoseletores
 
-Esse foi o primeiro projeto que aprendi a fazer na Trilha 1 do Descodificadas
+Projeto da Trilha 1 do Descodificadas 2023
